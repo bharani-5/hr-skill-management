@@ -20,6 +20,6 @@ A web-based HR Skill Management System built using **Django**. This application 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/hr-skill-management.git
+   git clone https://github.com/bharani-5/hr-skill-management.git
 
 
